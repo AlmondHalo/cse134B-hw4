@@ -170,6 +170,7 @@
     /* animation: fade-in 1s ease 2ms; */
 }
 
+
 .error {
     animation: fade-out 2s infinite;
     margin-left: 2em;
